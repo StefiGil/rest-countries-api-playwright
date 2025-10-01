@@ -22,6 +22,10 @@ rest-countries-api-playwright/
 └─ README.md
 ```
 
+## Requisitos e instalación
+
+1. Instalar Node.js >= 18
+
 ## Cómo ejecutar las pruebas
 
 1. Clonar el repositorio:  
